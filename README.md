@@ -67,20 +67,20 @@
 Подготовка презентации</td>
 <td>pandas, matplotlib, math, seaborn, sqlalchemy, plotly</td>
 <tr>
-<td> <b>11</b></td>
+<td> <b>11.1</b></td>
 <td><a href="https://github.com/vagr-bourne/Projects/blob/main/11.%20final%20project.%20part%201/Выпускной%20проект.%20Часть%201_.ipynb" target="_blank"><b>Выпускной проект. Часть 1. Анализ оттока клиентов банка.</b></a></td>
 <td>Проанализировать клиентов регионального банка и выделите сегменты клиентов, которые склонны уходить из банка.
 Сформулировать и проверить статистические гипотезы. Сегментировать пользователей на отдельные сегменты. 
 </td>
 <td>pandas, numpy, matplotlib, math, seaborn, plotly</td>
 <tr>
-<td> <b>12</b></td>
+<td> <b>11.2</b></td>
 <td><a href="https://github.com/vagr-bourne/Projects/blob/main/11.%20final%20project.%20part%202/Выпускной%20проект.%20Часть%202.ipynb"><b>Выпускной проект. Часть 2. Проект по А/В тестированию.</b></a></td>
 <td>Провести оценку результатов А/В теста. Оценить корректность проведения теста и проанализировать его результаты.
 </td>
 <td>pandas, numpy, matplotlib, math, seaborn, plotly</td>
 <tr>
-<td> <b>13</b></td>
+<td> <b>11.3</b></td>
 <td><a href="https://github.com/vagr-bourne/Projects/blob/main/11.%20final%20project.%20part%203.%20SQL/Выпускной%20проект.%20Часть%203.%20SQL.ipynb"><b>Проект по SQL</b></a></td>
 <td>Проанализировать базу данных. Ответить на поставленные вопросы.
 </td>
