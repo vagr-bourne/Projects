@@ -42,3 +42,7 @@
 - book_id — идентификатор книги;
 - username — имя автора обзора;
 - text — текст обзора.
+
+![image](https://github.com/vagr-bourne/Projects/assets/123013399/d7eff478-56e5-4527-8938-77ddb6478b38)
+
+
