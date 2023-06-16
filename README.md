@@ -2,9 +2,8 @@
 
 
 <b>Мои лучшие проекты:</b><br/>
-<a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/7%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20JK%20%28%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%29.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a><br/>
-<a href="http://data5yandex.herokuapp.com/" target="_blank"><b>Дашборд метрик 5ой когорты курса анализа данных</b></a>
-(работа выполнялась в паре с однокурсником Практикума)
+<a href="[https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/7%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20JK%20%28%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%29.ipynb](https://github.com/vagr-bourne/Projects/blob/main/11.%20final%20project.%20part%201/Выпускной%20проект.%20Часть%201_.ipynb)" target="_blank"><b>Выпускной проект. Часть 1.</b></a><br/>
+<a href="[http://data5yandex.herokuapp.com/" target="_blank](https://github.com/vagr-bourne/Projects/blob/main/11.%20final%20project.%20part%202/Выпускной%20проект.%20Часть%202.ipynb)"><b>Выпускной проект. Часть 2.</b></a>
 <br/><br/><br/>
 Описание всех проектов:
 
