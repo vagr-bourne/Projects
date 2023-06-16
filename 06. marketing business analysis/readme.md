@@ -12,3 +12,4 @@
 - visits_info_short.csv хранит лог сервера с информацией о посещениях сайта.
 - orders_info_short.csv — информацию о заказах.
 - costs_info_short.csv — информацию о расходах на рекламу.
+
