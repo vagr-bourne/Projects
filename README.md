@@ -1,4 +1,4 @@
-## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Яндекс. Практикум "Аналитик данных"</b></a>
+## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Яндекс-Практикум "Аналитик данных"</b></a>
 
 
 <b>Мои лучшие проекты:</b><br/>
